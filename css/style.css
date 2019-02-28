@@ -1,0 +1,140 @@
+/* Global */
+.common{
+	background: lightblue;
+	margin: 0px 0px 15px 0px;
+}
+
+.same{
+	background: lightcyan;
+}
+
+/* Header */
+.header{
+	height: auto;
+	width: auto;
+}
+.header h5{
+	margin: 5px 0px 0px 12px;
+}
+
+/* .header h5{
+	margin-top:5px; 
+} */
+
+.box_1{
+	height: 50px;
+	margin: 10px;
+}
+
+.header p{
+	vertical-align: center;
+	text-align: center;
+	padding-top: 12px;
+}
+
+/* Hero */
+
+.hero{
+	height: auto;
+	width: auto;
+}
+
+.hero h5{
+	margin: 5px 0px 0px 12px;
+}
+
+.box_2{
+	height: 90px;
+	margin: 10px;
+	padding-top: 32px;
+}
+
+.hero p{
+	vertical-align: center;
+	text-align: center;
+}
+
+/* Ad */
+
+.ad{
+	background: #70A7DD;
+	width: auto;
+}
+
+.ad_2{
+	margin: 5px 10px 5px 10px;
+}
+	
+.ad h6{
+	text-align: center;
+}
+
+.ad_1_text{
+	padding-top: 55px;
+	padding-bottom: 55px;
+}
+
+.ad_2_text{
+	padding-top: 130px;
+	padding-bottom: 130px;
+
+}
+
+/* Body */
+
+.body{
+	height: auto;
+	width: auto;
+}
+
+.body h5{
+	margin: 5px 0px 0px 12px;
+}
+
+.box_3{
+	height: 290px;
+	width: auto;
+	margin: 10px;
+	padding-top: 120px;
+}
+
+.body p{
+	text-align: center;
+	vertical-align: center;
+}
+
+/* Sidebar */
+
+
+.sidebar{
+	height: auto;
+	width: auto;
+}
+
+.sidebar h5{
+	padding-left: 10px;
+	padding-top: 5px;
+	margin-bottom: 0px;
+
+}
+
+.box_4{
+	height: 290px;
+	width: auto;
+	margin: 10px;
+	text-align: center;
+	padding-top: 120px;
+}
+
+/* Footer */
+
+.footer{
+	height: 50px;
+	width: auto;
+}
+
+.footer h5{
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
